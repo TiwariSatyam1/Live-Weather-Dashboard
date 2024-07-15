@@ -1,36 +1,4 @@
 
-****Project Structure****
-my-new-app
-├── public/
-│    ├── icons
-│    └── favicon.ico
-│    |__index.html
-│    |__logo192.png
-│    |__logo512.png
-│    |__manifest.json
-│    |__robots.txt    
-├── src/
-│   ├── components/
-│   │   ├── current-weather/
-│   │   │   ├── current-weather.css
-│   │   │   ├── current-weather.js
-│   │   ├── forecast/
-│   │   │   ├──forecast.css
-│   │   │   ├──forecast.js
-│   │   ├── Search/
-│   │   │   ├──search.js
-│   ├──App.css
-│   ├── App.js
-│   ├──Api.js
-│   ├──index.css
-│   ├──index.js
-│   ├──reportWebVitals.js
-│   ├──setupTest.js
-├──.gitignore
-├──README.md
-├──package-lock.json
-├──package.json
-
 
 The Weather Dashboard Application is a responsive and user-friendly tool designed to fetch and display real-time weather data for various countries and cities. Utilizing the GeoDB Cities API and the OpenWeather API, the application offers comprehensive weather information, including temperature, humidity, wind speed, and weather conditions. This project showcases the integration of third-party APIs and the creation of a dynamic user interface using React.
 
